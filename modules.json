@@ -1,0 +1,10 @@
+{
+  "modules": [
+    {
+      "online_link": "https://github.com/lxnnydev/SerenityHosting/raw/main/Elixir-586.dll",
+      "name": "Elixir-586.dll",
+      "hash": "a7f770347e9a3a889a485c7d27387c305d85d9ce14897088d5271f8dfb2f276dce27f9711df9ff3b49eba43520fd78d0",
+      "active": true
+    }
+  ]
+}

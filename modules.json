@@ -5,6 +5,12 @@
       "name": "Elixir-586.dll",
       "hash": "a7f770347e9a3a889a485c7d27387c305d85d9ce14897088d5271f8dfb2f276dce27f9711df9ff3b49eba43520fd78d0",
       "active": true
+    },
+    {
+      "online_link": "https://cdn.discordapp.com/attachments/1122964852424585256/1134835970668245132/elexir.dll",
+      "name": "Elixir-587.dll",
+      "hash": "50595bbe0b2f7884bb396b7c5a03d2ae502c3f53d846624e11a5c2ef3f0567772d1506ea3aea1c7104b1a1b8f560cf8e",
+      "active": true
     }
   ]
 }
